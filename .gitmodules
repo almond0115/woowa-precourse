@@ -1,0 +1,4 @@
+[submodule "precourse-baseball-game"]
+	path = precourse-baseball-game
+	url = https://github.com/almond0115/woowa-precourse-baseball.git
+	branch = javajjh
