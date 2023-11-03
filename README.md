@@ -12,3 +12,5 @@
 ## 🤔 공부 기록
 
 * [소프트웨어에서의 util](https://github.com/almond0115/woowa-precourse/blob/main/study/util.md)
+
+* [int 와 Integer 차이](https://github.com/almond0115/woowa-precourse/blob/main/study/integer.md)
