@@ -14,3 +14,11 @@
 * [소프트웨어에서의 util](https://github.com/almond0115/woowa-precourse/blob/main/study/util.md)
 
 * [int 와 Integer 차이](https://github.com/almond0115/woowa-precourse/blob/main/study/integer.md)
+
+* [First Class Collection 이란](https://github.com/almond0115/woowa-precourse/blob/main/study/collection.md)
+
+* [Java Enum 제대로 활용하기](https://github.com/almond0115/woowa-precourse/blob/main/study/util.md)
+
+* [Java Switch 제대로 알기](https://github.com/almond0115/woowa-precourse/blob/main/study/util.md)
+
+* [Long, float 값 뒤에 L, F를 붙어야 하는 이유](https://github.com/almond0115/woowa-precourse/blob/main/study/util.md)
